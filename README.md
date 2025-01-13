@@ -21,7 +21,7 @@ Ensure you have the following installed on your Kali Linux machine:
 ### Steps:
 1. **Clone the Repository**:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/Tillu6/honey_trap
    cd <repository_directory>
    ```
 
