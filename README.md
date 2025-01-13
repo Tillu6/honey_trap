@@ -1,7 +1,7 @@
 
 # Honey Trap in Kali Linux
 
-![Honeypot Symbol]()
+![Honeypot Symbol](5c1c5720-1900-4ac6-94fc-33026157e95d.webp)
 
 A simple SSH honeypot designed to detect unauthorized access attempts by simulating an SSH service and recording malicious activity.
 
