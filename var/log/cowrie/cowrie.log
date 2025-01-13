@@ -1,0 +1,17 @@
+2025-01-14T08:41:20.472596Z [-] Reading configuration from ['/home/kali/Documents/cowrie/etc/cowrie.cfg.dist', '/home/kali/Documents/cowrie/etc/cowrie.cfg']
+2025-01-14T08:41:20.974039Z [-] Python Version 3.12.8 (main, Dec 13 2024, 13:19:48) [GCC 14.2.0]
+2025-01-14T08:41:20.974090Z [-] Twisted Version 24.11.0
+2025-01-14T08:41:20.974112Z [-] Cowrie Version 2.6.1
+2025-01-14T08:41:20.979137Z [-] Loaded output engine: jsonlog
+2025-01-14T08:41:20.981543Z [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 24.11.0 (/home/kali/Documents/cowrie/cowrie-env/bin/python3 3.12.8) starting up.
+2025-01-14T08:41:20.981763Z [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2025-01-14T08:41:20.988171Z [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/home/kali/Documents/cowrie/cowrie-env/lib/python3.12/site-packages/twisted/internet/defer.py", line 155, in execute
+	    result = callable(*args, **kwargs)
+	  File "/home/kali/Documents/cowrie/cowrie-env/lib/python3.12/site-packages/twisted/internet/posixbase.py", line 366, in listenTCP
+	    p.startListening()
+	  File "/home/kali/Documents/cowrie/cowrie-env/lib/python3.12/site-packages/twisted/internet/tcp.py", line 1360, in startListening
+	    raise CannotListenError(self.interface, self.port, le)
+	twisted.internet.error.CannotListenError: Couldn't listen on 0.0.0.0:2222: [Errno 98] Address already in use.
+	
