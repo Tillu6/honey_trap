@@ -10,17 +10,6 @@ A simple SSH honeypot designed to detect unauthorized access attempts by simulat
 - **Analyzes attacker behavior**: Tracks failed login attempts and behavior patterns, providing insights into the attacker's strategy.
 - **Real-time alerts**: Notifies you in real-time when suspicious activity is detected, allowing for immediate action.
 
-## Installation
-...
-
-
-# Honey Trap in Kali Linux
-A simple SSH honeypot designed to detect unauthorized access attempts by simulating an SSH service and recording malicious activity.
-
-## Features
-- **Logs connection attempts**: Captures detailed logs of unauthorized connection attempts, including IP addresses, usernames, and authentication methods.
-- **Analyzes attacker behavior**: Tracks failed login attempts and behavior patterns, providing insights into the attacker's strategy.
-- **Real-time alerts**: Notifies you in real-time when suspicious activity is detected, allowing for immediate action.
 
 ## Installation
 ### Prerequisites:
