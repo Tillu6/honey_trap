@@ -46,7 +46,7 @@ sudo apt install python3 python3-pip git -y
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/username/honey-trap.git
+git clone https://github.com/Tillu6/honey-trap.git
 cd honey-trap
 ```
 
