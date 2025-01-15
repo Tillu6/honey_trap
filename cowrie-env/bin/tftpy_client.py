@@ -1,4 +1,4 @@
-#!/home/kali/Documents/cowrie/cowrie-env/bin/python3
+#!/home/kali/Desktop/honey_trap/cowrie-env/bin/python3
 # vim: ts=4 sw=4 et ai:
 # -*- coding: utf8 -*-
 
