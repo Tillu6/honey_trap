@@ -6,7 +6,7 @@ def send_alert(message):
     receiver_email = "sakethreddy015@gmail.com" # Replace with recipient email
 
     # Generate a secure app password from Google
-    password = "pvyi qqld jppc pofk "  # Replace with your app password
+    password = "pvyi qqld dsfghhg fguhg "  # Replace with your app password
 
     try:
         with smtplib.SMTP("smtp.gmail.com", 587) as server:
